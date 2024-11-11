@@ -11,9 +11,9 @@ export default function HomePage() {
       <div style={{ position: 'absolute', bottom: '20px', left: '20px', color: '#0B3D91' }}>
         <p style={{ margin: 0 }}>Sunil Agarwal</p>
         <p style={{ margin: 0 }}>
-          Phone: <a href="tel:+919819682830">+919819682830</a>
+          Phone: <a href="tel:+919821879350">+919821879350</a>
         </p>
       </div>
     </>
   );
-}
+};
